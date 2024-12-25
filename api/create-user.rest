@@ -1,0 +1,9 @@
+POST http://localhost:8080/auth/local/register
+Content-Type: application/json
+Authorization: Bearer db4269bc397a3408a5bdd35a38ad4bb33607208b5056da17d2063ce392e84d2b86cdd5527b7aceece0044879b57389a730a927dd60abe123f22027ddcfcf0a050c1566d105e50f464bd6364cb26b440182d7e6fe299c93fc84130f36d6621f616a7456b39573b826833b054b3acf125568632a37c75f93056ae3d90eebc18124
+
+{
+    "username": "Jirapat",
+    "email": "demo@api.com",
+    "password": "P@ssW0rD"
+}
