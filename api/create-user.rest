@@ -7,3 +7,6 @@ Authorization: Bearer c09881eef4c1b5dc97541296e49654c0a787d50f5407c94c41e0566a5a
     "email": "demo@api.com",
     "password": "P@ssW0rD"
 }
+
+#172.30.240.1
+#curl -X POST http://localhost:8080/api/auth/local/register -d "{username:Jirapat, email: demo@api.com, password:P@ssW0rD}" -H Authorization:c09881eef4c1b5dc97541296e49654c0a787d50f5407c94c41e0566a5a78041f9bfd2b8c2f61af8f40ba4318eaaa13ce987d8c8d87608d08f9dc80cbcdffb9a58d088e6fbe282b9b5d694f0b7747b4b06a1896815dc3790db14e36dae1b6fd7d20ed6998a6b4fb4273e37ffca30737c256f31f1478440dff7287c4c4c215ef15
