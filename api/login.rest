@@ -1,0 +1,8 @@
+POST http://localhost:8080/api/auth/local
+Content-Type: application/json
+Authorization: a95b22377d3dd7538a6efe513160c4d2cd5551ae345dd59fb92e5761d5eaaa23ca4c120e425941ae7b0d319e5297d0e8b5fefae9152e98db679529da87bff2e04e628a5216e637fd94c3d22769b42766c0a640b8a4302ddea5a47192bbe1cb4c112442708677ff8c93e51dcb5a804017859b0265ac371f728ea6112d16a46623
+
+{
+    "identifier": "Grapat",
+    "password": "P@ssW0rD"
+}
